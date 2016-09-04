@@ -45,7 +45,7 @@ Paul will help supervise the design, final assembly and testing of the submarine
 - **[AiResearch](http://www.airesearch.nl/)**. Its founder Emile Van Essen has put his collection of skills to good use, with 3 submersibles already on his belt. 
 He will supervise the fabrication of the pressure hull. 
 
-- **[Delair-Tech](http://http://www.delair-tech.com/en/home/)**. The aerial drone company founded by Michael, helping out for the onboard electronics. 
+- **[Delair-Tech](http://http://www.delair-tech.com/en/home/)**. The aerial drone company founded by Michael, realized all the onboard electronics, for navigation, lighting and photographic acquisition. 
 
 ![](../images/DTlogo.jpg)
 
