@@ -89,7 +89,7 @@ share our adventure and its results with the public. [www.institut-ocean.org](ht
 
 ### Other supports
 
-- The project is also supported by the X-mer Club, and the Marine Commandos of the French Navy.
+- The project is also supported by the X-mer Club, and the Marine Commandos of the French Navy. 
 
 If you are interested in the project, would like to help us, or as an institution would be interested 
 in an exhibit of the submarine and images of the seabed, or conference,
