@@ -28,7 +28,7 @@ title: Partners
  style="border: 0px solid ; width: 400px;"
  alt="logo" src="../images/totallogo.jpg">
 
-- **SHOM** The French Naval Hydrographic and Oceanographic Service.
+- **SHOM** The French Naval Hydrographic and Oceanographic Service, offering some precise bathymetric and 3D tide currents data.
 
 <img
  style="border: 0px solid ; width: 80px;"
@@ -62,6 +62,8 @@ internal equipment and the trailer of the submarine.
 
 - **[Techno Diving](http://www.technodiving.nl/)** for the acoustic phone systems
 
+- **[Phonations](http://www.phonations.com/)** for the communications on the surface vessel
+
 ### Scientific Partner
 
 - The **marine station of Dinard of the French National Museum of Natural History**
@@ -84,6 +86,10 @@ share our adventure and its results with the public. [www.institut-ocean.org](ht
 ### Logistics
 
 - The Biscarosse dive club **La palme du B.O.** pour the lake tests
+
+### Other supports
+
+- The project is also supported by the X-mer Club, and the Marine Commandos of the French Navy.
 
 If you are interested in the project, would like to help us, or as an institution would be interested 
 in an exhibit of the submarine and images of the seabed, or conference,
